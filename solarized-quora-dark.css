@@ -1,0 +1,71 @@
+/**
+ * Original stylesheet:
+ *  https://gist.github.com/zmanji/1573884
+ **/
+.codeblocktable .codeblock {background-color:#073642 !important; color:#93a1a1 !important}
+.codeblocktable .code .c,
+.codeblocktable .code .cm,
+.codeblocktable .code .cp,
+.codeblocktable .code .c1 {color:#586e75 !important; font-style:italic}
+.codeblocktable .code .cs {color:#586e75 !important; font-weight:bold; font-style:italic}
+.codeblocktable .code .err
+                          {color:#dc322f !important;background:none}
+.codeblocktable .code .k  {color:#cb4b16 !important}
+.codeblocktable .code .o  {color:#93a1a1 !important; font-weight:bold}
+.codeblocktable .code .p  {color:#93a1a1 !important}
+.codeblocktable .code .ow {color:#2aa198 !important; font-weight:bold}
+.codeblocktable .code .gd {color:#93a1a1 !important; background-color:#372c34 !important}
+.codeblocktable .code .gd .x
+                          {color:#93a1a1 !important; background-color:#4d2d33 !important}
+.codeblocktable .code .ge {color:#93a1a1 !important; font-style:italic}
+.codeblocktable .code .gr {color:#aa0000 !important}
+.codeblocktable .code .gh {color:#586e75 !important}
+.codeblocktable .code .gi {color:#93a1a1 !important; background-color:#1a412b !important}
+.codeblocktable .code .gi .x
+                          {color:#93a1a1 !important; background-color:#355720 !important}
+.codeblocktable .code .go {color:#888888 !important}
+.codeblocktable .code .gp {color:#555555 !important}
+.codeblocktable .code .gs {color:#93a1a1 !important; font-weight:bold}
+.codeblocktable .code .gu {color:#6c71c4 !important}
+.codeblocktable .code .gt {color:#aa0000 !important}
+.codeblocktable .code .kc {color:#859900 !important; font-weight:bold}
+.codeblocktable .code .kd {color:#268bd2 !important}
+.codeblocktable .code .kp {color:#cb4b16 !important; font-weight:bold}
+.codeblocktable .code .kr {color:#d33682 !important; font-weight:bold}
+.codeblocktable .code .kt {color:#2aa198 !important}
+.codeblocktable .code .n,
+.codeblocktable .code .na {color:#268bd2 !important}
+.codeblocktable .code .nb {color:#859900 !important}
+.codeblocktable .code .nc {color:#d33682 !important}
+.codeblocktable .code .no {color:#b58900 !important}
+.codeblocktable .code .ni {color:#800080 !important}
+.codeblocktable .code .nl {color:#859900 !important}
+.codeblocktable .code .ne,
+.codeblocktable .code .nf {color:#268bd2 !important; font-weight:bold}
+.codeblocktable .code .nn {color:#b58900 !important}
+.codeblocktable .code .nt {color:#268bd2 !important; font-weight:bold}
+.codeblocktable .code .nx {color:#b58900 !important}
+.codeblocktable .code .bp {color:#999999 !important}
+.codeblocktable .code .vc {color:#008080 !important}
+.codeblocktable .code .vg,
+.codeblocktable .code .vi,
+.codeblocktable .code .nv {color:#268bd2 !important}
+.codeblocktable .code .w  {color:#bbbbbb !important}
+.codeblocktable .code .mf,
+.codeblocktable .code .m,
+.codeblocktable .code .mh,
+.codeblocktable .code .mi {color:#2aa198 !important}
+.codeblocktable .code .mo {color:#009999 !important}
+.codeblocktable .code .s  {color:#2aa198 !important}
+.codeblocktable .code .sb,
+.codeblocktable .code .sc {color:#d14    !important}
+.codeblocktable .code .sd {color:#2aa198 !important}
+.codeblocktable .code .s2 {color:#2aa198 !important}
+.codeblocktable .code .se {color:#dc322f !important}
+.codeblocktable .code .sh {color:#d14    !important}
+.codeblocktable .code .si {color:#268bd2 !important}
+.codeblocktable .code .sx {color:#d14    !important}
+.codeblocktable .code .sr,
+.codeblocktable .code .s1 {color:#2aa198 !important}
+.codeblocktable .code .ss {color:#990073 !important}
+.codeblocktable .code .il {color:#009999 !important}

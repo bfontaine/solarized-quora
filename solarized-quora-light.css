@@ -1,0 +1,73 @@
+/**
+ * Original stylesheet:
+ *  https://gist.github.com/scotu/1272660
+ **/
+.codeblocktable .codeblock{background-color:#ffffcc !important}
+.codeblocktable .code .c  {color:#586E75 !important}
+.codeblocktable .code .err{color:#93A1A1 !important}
+.codeblocktable .code .g  {color:#93A1A1 !important}
+.codeblocktable .code .k  {color:#859900 !important}
+.codeblocktable .code .l  {color:#93A1A1 !important}
+.codeblocktable .code .n  {color:#93A1A1 !important}
+.codeblocktable .code .o  {color:#859900 !important}
+.codeblocktable .code .x  {color:#CB4B16 !important}
+.codeblocktable .code .p  {color:#93A1A1 !important}
+.codeblocktable .code .cm {color:#586E75 !important}
+.codeblocktable .code .cp {color:#859900 !important}
+.codeblocktable .code .c1 {color:#586E75 !important}
+.codeblocktable .code .cs {color:#859900 !important}
+.codeblocktable .code .gd {color:#2AA198 !important}
+.codeblocktable .code .ge {color:#93A1A1 !important; font-style:italic}
+.codeblocktable .code .gr {color:#DC322F !important}
+.codeblocktable .code .gh {color:#CB4B16 !important}
+.codeblocktable .code .gi {color:#859900 !important}
+.codeblocktable .code .go {color:#93A1A1 !important}
+.codeblocktable .code .gp {color:#93A1A1 !important}
+.codeblocktable .code .gs {color:#93A1A1 !important; font-weight:bold}
+.codeblocktable .code .gu {color:#CB4B16 !important}
+.codeblocktable .code .gt {color:#93A1A1 !important}
+.codeblocktable .code .kc {color:#CB4B16 !important}
+.codeblocktable .code .kd {color:#268BD2 !important}
+.codeblocktable .code .kn {color:#859900 !important}
+.codeblocktable .code .kp {color:#859900 !important}
+.codeblocktable .code .kr {color:#268BD2 !important}
+.codeblocktable .code .kt {color:#DC322F !important}
+.codeblocktable .code .ld {color:#93A1A1 !important}
+.codeblocktable .code .m  {color:#2AA198 !important}
+.codeblocktable .code .s  {color:#2AA198 !important}
+.codeblocktable .code .na {color:#93A1A1 !important}
+.codeblocktable .code .nb {color:#B58900 !important}
+.codeblocktable .code .nc {color:#268BD2 !important}
+.codeblocktable .code .no {color:#CB4B16 !important}
+.codeblocktable .code .nd {color:#268BD2 !important}
+.codeblocktable .code .ni {color:#CB4B16 !important}
+.codeblocktable .code .ne {color:#CB4B16 !important}
+.codeblocktable .code .nf {color:#268BD2 !important}
+.codeblocktable .code .nl {color:#93A1A1 !important}
+.codeblocktable .code .nn {color:#93A1A1 !important}
+.codeblocktable .code .nx {color:#93A1A1 !important}
+.codeblocktable .code .py {color:#93A1A1 !important}
+.codeblocktable .code .nt {color:#268BD2 !important}
+.codeblocktable .code .nv {color:#268BD2 !important}
+.codeblocktable .code .ow {color:#859900 !important}
+.codeblocktable .code .w  {color:#93A1A1 !important}
+.codeblocktable .code .mf {color:#2AA198 !important}
+.codeblocktable .code .mh {color:#2AA198 !important}
+.codeblocktable .code .mi {color:#2AA198 !important}
+.codeblocktable .code .mo {color:#2AA198 !important}
+.codeblocktable .code .sb {color:#586E75 !important}
+.codeblocktable .code .sc {color:#2AA198 !important}
+.codeblocktable .code .sd {color:#93A1A1 !important}
+.codeblocktable .code .s2 {color:#2AA198 !important}
+.codeblocktable .code .se {color:#CB4B16 !important}
+.codeblocktable .code .sh {color:#93A1A1 !important}
+.codeblocktable .code .si {color:#2AA198 !important}
+.codeblocktable .code .sx {color:#2AA198 !important}
+.codeblocktable .code .sr {color:#DC322F !important}
+.codeblocktable .code .s1 {color:#2AA198 !important}
+.codeblocktable .code .ss {color:#2AA198 !important}
+.codeblocktable .code .bp {color:#268BD2 !important}
+.codeblocktable .code .vc {color:#268BD2 !important}
+.codeblocktable .code .vg {color:#268BD2 !important}
+.codeblocktable .code .vi {color:#268BD2 !important}
+.codeblocktable .code .il {color:#2AA198 !important}
